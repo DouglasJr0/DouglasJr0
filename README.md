@@ -1,9 +1,9 @@
 ## Hello, my name is Douglas Junior 👋
 
-- 🔭 I'm currently working at celepar as network and hardware support.
-- 🌱 I'm currently learning network and hardware support, the programming languages ​​are java, javascript, css, html, type.
-- 📫 Get in touch via the links below.
--->
+- 🔭 Atualmente trabalho na celepar como suporte de rede e hardware.
+- 🌱 Atualmente estou aprendendo suporte de redes e hardware, as linguagens de programação que estou estudando são java, javascript, css, html, type.
+- 📫 Entre em contato através dos links abaixo.
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
