@@ -4,7 +4,7 @@
 training in order to update knowledge in the area and develop professional development and
 social, I currently work at celepar as network and hardware support, I study languages, javascript, css, html, type.
 
-  ⚙️  GitHub Analytics
+    #### ⚙️  GitHub Analytics
   
 <div align="center" style="margin-bottom: 100px">
   <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DouglasJr0&theme=radical&mode=weekly" />
