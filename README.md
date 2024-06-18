@@ -4,10 +4,6 @@
 - 🌱 Atualmente estou aprendendo suporte de redes e hardware, as linguagens de programação que estou estudando são java, javascript, css, html, type.
 - 📫 Entre em contato através dos links abaixo.
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/vitor-machado04/vitor-machado04/blob/main/vitor-machado04.png?raw=true" />
-
-<p align="center">Enthusiastic about the technology field, <strong>I always strive to find ways to make it even more practical and commonplace in daily life</strong>. I bring with me experience as a <strong>Web Developer</strong>, creating SQL queries, developing websites with HTML and CSS, and JavaScript. Additionally, I have expertise in project management, customer service, and computer maintenance.</p>&nbsp;
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=vitor-machado04&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=vitor-machado04&show_icons=true&theme=radical&layout=compact" />
