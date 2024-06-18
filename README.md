@@ -1,8 +1,8 @@
 ## Hello, my name is Douglas Junior 👋
 
-- 🔭 Atualmente trabalho na celepar como suporte de rede e hardware.
-- 🌱 Atualmente estou aprendendo suporte de redes e hardware, as linguagens de programação que estou estudando são java, javascript, css, html, type.
-- 📫 Entre em contato através dos links abaixo.
+- 🔭 Always looking for participation in
+training in order to update knowledge in the area and develop professional development and
+social, I currently work at celepar as network and hardware support, I study languages, javascript, css, html, type.
 
   ⚙️  GitHub Analytics
   
