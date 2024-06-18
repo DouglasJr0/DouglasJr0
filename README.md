@@ -4,6 +4,8 @@
 - 🌱 Atualmente estou aprendendo suporte de redes e hardware, as linguagens de programação que estou estudando são java, javascript, css, html, type.
 - 📫 Entre em contato através dos links abaixo.
 
+  ⚙️  GitHub Analytics
+  
 <div align="center" style="margin-bottom: 100px">
   <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DouglasJr0&theme=radical&mode=weekly" />
   <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DouglasJr0&show_icons=true&theme=radical&layout=compact" />
