@@ -1,4 +1,4 @@
-# Douglas
+# Douglas Jr
 ### Desenvolvedor Full Stack
 
 Olá! Meu nome é Douglas, sou um desenvolvedor Full Stack apaixonado por tecnologia e por criar soluções inovadoras.  
