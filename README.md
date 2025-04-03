@@ -26,8 +26,8 @@ Acredito na força do compartilhamento de ideias e na colaboração, por isso es
 
 <div align="center">
   <!-- Substitua SEU_USUARIO pelo seu nome de usuário do GitHub -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Douglas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasJr0&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Douglas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasJr0&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
 </div>
 
 ---
