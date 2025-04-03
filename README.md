@@ -1,5 +1,5 @@
 # Douglas Jr
-### Desenvolvedor Full Stack
+### 💻 Desenvolvedor Full Stack
 
 Olá! Meu nome é Douglas, sou um desenvolvedor Full Stack apaixonado por tecnologia e por criar soluções inovadoras.  
 Atualmente, venho aprimorando minhas habilidades em desenvolvimento web, sempre buscando conhecimento para entregar o melhor resultado em meus projetos.  
@@ -22,7 +22,7 @@ Acredito na força do compartilhamento de ideias e na colaboração, por isso es
 
 ---
 
-## Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
   <!-- Substitua SEU_USUARIO pelo seu nome de usuário do GitHub -->
