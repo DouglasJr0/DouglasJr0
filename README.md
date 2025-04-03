@@ -7,7 +7,7 @@ Acredito na força do compartilhamento de ideias e na colaboração, por isso es
 
 ---
 
- #Linguagens, Tecnologias e Ferramentas
+ ## Linguagens, Tecnologias e Ferramentas
 
 <div align="center" style="display: inline_block">
   <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -22,7 +22,7 @@ Acredito na força do compartilhamento de ideias e na colaboração, por isso es
 
 ---
 
- #📊 Estatísticas
+ ## 📊 Estatísticas
 
 <div align="center">
   <!-- Substitua SEU_USUARIO pelo seu nome de usuário do GitHub -->
