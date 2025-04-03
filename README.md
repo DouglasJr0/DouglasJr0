@@ -1,28 +1,40 @@
-## Hello, my name is Douglas Junior 👋
+# Douglas
+### Desenvolvedor Full Stack
 
-- 🔭 Always looking for participation in
-training in order to update knowledge in the area and develop professional development and
-social, I currently work at celepar as network and hardware support, I study languages, javascript, css, html, type.
+**Olá!** Meu nome é Douglas, sou um desenvolvedor Full Stack apaixonado por tecnologia e por criar soluções inovadoras.  
+Atualmente, venho aprimorando minhas habilidades em desenvolvimento web, sempre buscando conhecimento para entregar o melhor resultado em meus projetos.  
+Acredito na força do compartilhamento de ideias e na colaboração, por isso estou constantemente em busca de contribuir e aprender em comunidades de desenvolvimento.
 
-    #### ⚙️  GitHub Analytics
-  
-<div align="center" style="margin-bottom: 100px">
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DouglasJr0&theme=radical&mode=weekly" />
-  <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=DouglasJr0&show_icons=true&theme=radical&layout=compact" />
+---
+
+## Linguagens, Tecnologias e Ferramentas
+
+<div align="center" style="display: inline_block">
+  <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Laravel" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="GitLab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 </div>
 
-&nbsp;
-&nbsp;
+---
 
-#### Studying in this moment:
+## Estatísticas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula" alt="Estatísticas do GitHub de Douglas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
 </div>
+
+---
+
+<p align="center">
+  <b>Entre em contato comigo para trocarmos ideias e criarmos algo incrível!</b>
+</p>
+
 
 ##
 
