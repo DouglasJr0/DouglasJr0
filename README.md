@@ -15,7 +15,7 @@ Acredito na força do compartilhamento de ideias e na colaboração, por isso es
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Laravel" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6xTfQ9ktseD2j6KXz7MM5AM6S_rz5IDFuyw&s" />
+  <img align="center" alt="Laravel" height="40" width="40" src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo.png" />
   <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="GitLab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 </div>
